@@ -79,7 +79,7 @@
     <version.com.google.guava>31.1-jre</version.com.google.guava>
     <version.com.j2html>1.5.0</version.com.j2html>
     <version.com.mycila>4.1</version.com.mycila>
-    <version.com.puppycrawl.tools>10.1</version.com.puppycrawl.tools>
+    <version.com.puppycrawl.tools>10.2</version.com.puppycrawl.tools>
     <version.com.redhat.red.build.kojiji>2.15</version.com.redhat.red.build.kojiji>
     <version.commons-codec>1.15</version.commons-codec>
     <version.info.picocli>4.6.3</version.info.picocli>
