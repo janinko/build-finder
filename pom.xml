@@ -128,7 +128,7 @@
     <version.org.eclipse.packager>0.18.0</version.org.eclipse.packager>
     <version.org.fusesource.jansi>2.4.0</version.org.fusesource.jansi>
     <version.org.infinispan>13.0.9.Final</version.org.infinispan>
-    <version.org.infinispan.protostream>4.4.2.Final</version.org.infinispan.protostream>
+    <version.org.infinispan.protostream>4.4.3.Final</version.org.infinispan.protostream>
     <version.org.jacoco>0.8.8</version.org.jacoco>
     <version.org.jboss.byteman>4.0.18</version.org.jboss.byteman>
     <version.org.jboss.logmanager>2.1.18.Final</version.org.jboss.logmanager>
